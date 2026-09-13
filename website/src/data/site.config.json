@@ -1,20 +1,50 @@
 {
-  "siteTitle": "Roopesh Tayaloor",
-  "tagline": "AI Engineer building products, tools, and the people who ship them.",
+  "siteTitle": "Sathvika Moorthy",
+  "tagline": "Passionate learner exploring AI and building small projects along the way ",
   "basePath": "/mirai-launchpad/",
   "defaultTheme": "dark-tech",
-  "availableThemes": ["modern-minimal", "dark-tech", "vibrant-creative", "blue-professional"],
+  "availableThemes": [
+    "modern-minimal",
+    "dark-tech",
+    "vibrant-creative",
+    "blue-professional"
+  ],
   "favicon": "/favicon.svg",
   "seo": {
     "description": "Portfolio of Roopesh Tayaloor, AI Engineer — projects, experience, and writing.",
     "ogImage": "/images/og-image.svg"
   },
   "navigation": [
-    { "id": "home", "label": "Home", "enabled": true, "order": 1 },
-    { "id": "resume", "label": "Resume", "enabled": true, "order": 2 },
-    { "id": "projects", "label": "Projects", "enabled": true, "order": 3 },
-    { "id": "others", "label": "Others", "enabled": true, "order": 4 },
-    { "id": "blog", "label": "Blog", "enabled": true, "order": 5 }
+    {
+      "id": "home",
+      "label": "Home",
+      "enabled": true,
+      "order": 1
+    },
+    {
+      "id": "resume",
+      "label": "Resume",
+      "enabled": true,
+      "order": 2
+    },
+    {
+      "id": "projects",
+      "label": "Projects",
+      "enabled": true,
+      "order": 3
+    },
+    {
+      "id": "others",
+      "label": "Others",
+      "enabled": true,
+      "order": 4
+    },
+    {
+      "id": "blog",
+      "label": "Blog",
+      "enabled": true,
+      "order": 5
+    }
   ],
   "contactForm": {
     "provider": "formspree",

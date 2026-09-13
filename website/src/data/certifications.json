@@ -1,14 +1,1 @@
-[
-  {
-    "id": "sample-certification-1",
-    "name": "Sample Certification — AI/ML Engineering",
-    "issuer": "Sample Issuing Body",
-    "date": "2024"
-  },
-  {
-    "id": "sample-certification-2",
-    "name": "Sample Certification — Cloud Architecture",
-    "issuer": "Sample Issuing Body",
-    "date": "2023"
-  }
-]
+[]

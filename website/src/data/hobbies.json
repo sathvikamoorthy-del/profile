@@ -6,15 +6,9 @@
     "icon": "BookOpen"
   },
   {
-    "id": "hiking",
-    "title": "Hiking",
-    "description": "Replace with a short, personal blurb about this hobby.",
-    "icon": "Mountain"
-  },
-  {
-    "id": "chess",
-    "title": "Chess",
-    "description": "I won district level open chess championship - Kolar in 1995",
-    "icon": "Puzzle"
+    "id": "scrolling internet ",
+    "title": "scrolling internet",
+    "description": "Exploring the internet to discover new technologies, tools, and creative ideas.",
+    "icon": "search"
   }
 ]

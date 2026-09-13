@@ -1,9 +1,16 @@
 [
   {
-    "id": "bangalore-university",
-    "institution": "Bangalore University",
-    "degree": "Bachelor's Degree",
-    "field": "Electronics",
-    "endDate": "1995"
+    "id": "Tirupathi-university",
+    "institution": "RCR Institute of science and technology",
+    "degree": "MBA",
+    "field": "Finance & Marketing",
+    "endDate": "2024"
+  },
+  {
+    "id": "Svu-University",
+    "institution": "Sri venkateswara University,Tirupathi",
+    "degree": "B.com (CA)",
+    "field": "Computer Applications ",
+    "endDate": "2022"
   }
 ]
