@@ -1,7 +1,7 @@
 {
   "siteTitle": "Sathvika Moorthy",
-  "tagline": "Passionate learner exploring AI and building small projects along the way ",
-  "basePath": "/mirai-launchpad/",
+  "tagline": "Passionate learner exploring AI and building small projects along the way",
+  "basePath": "/profile/",
   "defaultTheme": "dark-tech",
   "availableThemes": [
     "modern-minimal",
@@ -11,7 +11,7 @@
   ],
   "favicon": "/favicon.svg",
   "seo": {
-    "description": "Portfolio of Roopesh Tayaloor, AI Engineer — projects, experience, and writing.",
+    "description": "Portfolio of Sathvika Moorthy, Aspiring AI Engineer — projects, experience, and writing.",
     "ogImage": "/images/og-image.svg"
   },
   "navigation": [
@@ -50,5 +50,5 @@
     "provider": "formspree",
     "endpoint": "https://formspree.io/f/xljeydej"
   },
-  "showCustomizeGuide": true
+  "showCustomizeGuide": false
 }
