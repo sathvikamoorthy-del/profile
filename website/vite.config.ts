@@ -1,15 +1,13 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
+import tailwindcss from '@tailwindcss/vite'
 import fs from 'node:fs'
 import path from 'node:path'
-import { fileURLToPath } from 'node:url'
-
-const __filename = fileURLToPath(import.meta.url)
-const __dirname = path.dirname(__filename)
 
 function resolveBasePath(): string {
-  const configPath = path.resolve(__dirname, 'src/data/site.config.json')
-  const { basePath } = JSON.parse(fs.readFileSync(configPath, 'utf-8')) as { basePath: string }
+  const { basePath } = JSON.parse(
+    fs.readFileSync(path.resolve(import.meta.dirname, 'src/data/site.config.json'), 'utf-8'),
+  ) as { basePath: string }
   
   if (basePath && basePath !== "/") {
     return basePath
@@ -25,7 +23,22 @@ function resolveBasePath(): string {
   return basePath
 }
 
+// Fix for virtual:dev-routes missing in production build
+const devRoutesFix = {
+  name: 'fix-virtual-dev-routes',
+  resolveId(id: string) {
+    if (id === 'virtual:dev-routes') return id
+    return null
+  },
+  load(id: string) {
+    if (id === 'virtual:dev-routes') {
+      return `export const devRoutes = []; export default [];`
+    }
+    return null
+  }
+}
+
 export default defineConfig({
-  plugins: [react()],
+  plugins: [react(), tailwindcss(), devRoutesFix],
   base: resolveBasePath(),
 })
