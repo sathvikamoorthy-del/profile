@@ -2,13 +2,13 @@
   {
     "id": "reading",
     "title": "Reading",
-    "description": "Replace with a short, personal blurb about this hobby.",
+    "description": "I enjoy reading tech blogs and articles to stay updated with AI and new technologies.",
     "icon": "BookOpen"
   },
   {
-    "id": "scrolling internet ",
-    "title": "scrolling internet",
+    "id": "exploring-internet",
+    "title": "Exploring Internet",
     "description": "Exploring the internet to discover new technologies, tools, and creative ideas.",
-    "icon": "search"
+    "icon": "Search"
   }
 ]
