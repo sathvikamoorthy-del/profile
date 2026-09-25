@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "id": "ojasa",
+    "role": "Trainee - AI & Web Development",
+    "company": "Ojasa Mirai Institute",
+    "companyUrl": "https://ojasamirai.com",
+    "duration": "2024 - Present",
+    "description": "Learning AI, Web Development and building real-world projects like Finance Tracker and Wellness Guide.",
+    "skills": ["AI", "Web Development", "JavaScript"]
+  }
+]
