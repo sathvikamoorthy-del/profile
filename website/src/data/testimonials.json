@@ -1,26 +1,10 @@
 [
   {
-    "id": "sample-testimonial-1",
-    "name": "Jordan Lee",
-    "role": "Engineering Manager",
-    "company": "Sample Company",
-    "quote": "Replace with a real testimonial. Keep it short — one or two sentences reads best.",
+    "id": "roopesh-tayloor",
+    "name": "Roopesh Tayloor",
+    "role": "Organizer",
+    "company": "Ojasa Mirai",
+    "quote": "Sathvika is a dedicated and curious learner with a strong passion for AI and technology. Her enthusiasm and quick learning attitude make her stand out.",
     "avatar": "/images/testimonials/avatar-1.svg"
-  },
-  {
-    "id": "sample-testimonial-2",
-    "name": "Priya Sharma",
-    "role": "Product Lead",
-    "company": "Sample Company",
-    "quote": "Replace with a real testimonial from a colleague, client, or mentor.",
-    "avatar": "/images/testimonials/avatar-2.svg"
-  },
-  {
-    "id": "sample-testimonial-3",
-    "name": "Alex Chen",
-    "role": "Founder",
-    "company": "Sample Startup",
-    "quote": "Replace with a real testimonial. Three placeholders ship by default so the grid layout renders correctly.",
-    "avatar": "/images/testimonials/avatar-3.svg"
   }
 ]
