@@ -1,10 +1,12 @@
 {
   "name": "Sathvika Moorthy",
-  "title":  “AI Engineer aspiring FDE”,
+  "title": "AI Engineer aspiring FDE",
   "tagline": "Passionate learner exploring AI and building small projects along the way.",
   "location": "Tirupathi, India",
   "email": "sathvikamoorthy@gmail.com",
-  "phone": "+91 8328089142",
-  "avatarUrl": "/profile/images/sathvika.jpg",
-  "bio": "A curious learner from Tirupati, passionate about AI and technology. Currently upskilling in Artificial Intelligence and building my journey step-by-step into the tech world."
+  "about": "A curious learner from Tirupati, passionate about AI and technology. Currently upskilling in Artificial Intelligence and building my journey step-by-step into the tech world.",
+  "photo": "/profile/images/sathvika.jpg",
+  "github": "https://github.com/sathvikamoorthy-del",
+  "linkedin": "https://www.linkedin.com/in/sathvika-moorthy/",
+  "resume": "/resume.pdf"
 }
