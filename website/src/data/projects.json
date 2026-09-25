@@ -1,1 +1,38 @@
-
+[
+  {
+    "id": "wellness-guide",
+    "title": "Wellness Guide",
+    "description": "A self-care platform to track physical health, mental wellness, and daily routines like hydration, exercise, sleep, mood, and hobbies with reminders.",
+    "techStack": ["HTML", "CSS", "JavaScript"],
+    "links": {
+      "github": "https://github.com/sathvikamoorthy-del/wellness-guide.git",
+      "live": ""
+    },
+    "image": "/images/projects/wellness-guide.png",
+    "featured": true
+  },
+  {
+    "id": "ojasa-finance-tracker",
+    "title": "Finance Tracker",
+    "description": "A personal finance tracker built as part of Ojasa. Helps users track income, expenses, budgets, and visualize spending patterns to manage money better.",
+    "techStack": ["HTML", "CSS", "JavaScript", "DBMS"],
+    "links": {
+      "github": "https://github.com/sathvikamoorthy-del/ojasa-projects.git",
+      "live": ""
+    },
+    "image": "/images/projects/finance-tracker.png",
+    "featured": true
+  },
+  {
+    "id": "rock-paper-scissor",
+    "title": "Rock Paper Scissor Game",
+    "description": "An interactive Rock Paper Scissor game with score tracking and responsive UI. Built to practice JavaScript logic and DOM manipulation.",
+    "techStack": ["HTML", "CSS", "JavaScript"],
+    "links": {
+      "github": "https://github.com/sathvikamoorthy-del/Rock-paper-scissor-project.git",
+      "live": ""
+    },
+    "image": "/images/projects/rock-paper-scissor.png",
+    "featured": true
+  }
+]
