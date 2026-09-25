@@ -5,7 +5,7 @@
     "tech": ["React", "JavaScript", "Tailwind CSS", "Vite"],
     "github": "https://github.com/sathvikamoorthy-del/wellness-guide",
     "live": "https://sathvikamoorthy-del.github.io/wellness-guide/",
-    "image": "/profile/images/sathvika.jpg",
+    "image": "/profile/images/projects/wellness.png",
     "featured": true
   },
   {
@@ -14,7 +14,7 @@
     "tech": ["React", "Chart.js", "LocalStorage", "JavaScript"],
     "github": "https://github.com/sathvikamoorthy-del/finance-tracker",
     "live": "https://sathvikamoorthy-del.github.io/finance-tracker/",
-    "image": "/profile/images/sathvika.jpg",
+    "image": "/profile/images/projects/finance.png",
     "featured": true
   },
   {
@@ -23,7 +23,7 @@
     "tech": ["Python", "API", "CLI"],
     "github": "https://github.com/sathvikamoorthy-del/weather-app",
     "live": "https://github.com/sathvikamoorthy-del/weather-app",
-    "image": "/profile/images/sathvika.jpg",
+    "image": "/profile/images/projects/weather.png",
     "featured": true
   },
   {
