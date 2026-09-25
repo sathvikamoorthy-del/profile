@@ -1,12 +1,17 @@
 [
   {
     "platform": "GitHub",
-    "url": "https://github.com/Roopesht",
-    "icon": "Code2"
+    "url": "https://github.com/sathvikamoorthy-del",
+    "icon": "Github"
   },
   {
-    "platform": "Website",
-    "url": "https://ojasamirai.com",
-    "icon": "Globe"
+    "platform": "LinkedIn",
+    "url": "https://www.linkedin.com/in/sathvika-moorthy-2b8135361",
+    "icon": "Linkedin"
+  },
+  {
+    "platform": "Email",
+    "url": "mailto:sathvikamoorthy@gmail.com",
+    "icon": "Mail"
   }
 ]
