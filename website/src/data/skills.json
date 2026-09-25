@@ -2,24 +2,25 @@
   {
     "category": "Technical",
     "items": [
-      { "name": "Python", "proficiency": 5 },
-      { "name": "Machine Learning", "proficiency": 4 },
-      { "name": "Generative AI & LLMs", "proficiency": 4 },
-      { "name": "Data Science", "proficiency": 4 },
-      { "name": "React / JavaScript", "proficiency": 5 },
-      { "name": "Node.js", "proficiency": 5 },
-      { "name": "Cloud Architecture", "proficiency": 4 },
-      { "name": "Full Stack Development", "proficiency": 5 }
+      { "name": "Python", "proficiency": 4 },
+      { "name": "Java (Basics)", "proficiency": 3 },
+      { "name": "C", "proficiency": 4 },
+      { "name": "HTML", "proficiency": 4 },
+      { "name": "DBMS", "proficiency": 4 }
     ]
   },
   {
-    "category": "Entrepreneurial",
+    "category": "Tools",
     "items": [
-      { "name": "Product Strategy", "proficiency": 5 },
-      { "name": "EdTech", "proficiency": 5 },
-      { "name": "Team Leadership", "proficiency": 5 },
-      { "name": "Learning Design", "proficiency": 4 },
-      { "name": "Innovation", "proficiency": 5 }
+      { "name": "Git", "proficiency": 4 },
+      { "name": "VS Code", "proficiency": 5 },
+      { "name": "React", "proficiency": 3 }
+    ]
+  },
+  {
+    "category": "Digital Skills",
+    "items": [
+      { "name": "SEO Basics", "proficiency": 3 }
     ]
   }
 ]
