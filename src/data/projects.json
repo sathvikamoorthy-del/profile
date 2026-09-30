@@ -1,0 +1,57 @@
+[
+  {
+    "id": "wellness-guide",
+    "title": "Wellness Guide",
+    "description": "A self-care platform to track physical health, mental wellness, and daily routines like hydration, exercise, sleep, mood, and hobbies with reminders.",
+    "tech": ["HTML", "CSS", "JavaScript"],
+    "techStack": ["HTML", "CSS", "JavaScript"],
+    "github": "https://github.com/sathvikamoorthy-del/wellness-guide.git",
+    "links": { "github": "https://github.com/sathvikamoorthy-del/wellness-guide.git", "live": "" },
+    "image": "/images/projects/wellness-guide.png",
+    "featured": true
+  },
+  {
+    "id": "ojasa-finance-tracker",
+    "title": "Finance Tracker",
+    "description": "A personal finance tracker built as part of Ojasa. Helps users track income, expenses, budgets, and visualize spending patterns to manage money better.",
+    "tech": ["HTML", "CSS", "JavaScript", "DBMS"],
+    "techStack": ["HTML", "CSS", "JavaScript", "DBMS"],
+    "github": "https://github.com/sathvikamoorthy-del/ojasa-projects.git",
+    "links": { "github": "https://github.com/sathvikamoorthy-del/ojasa-projects.git", "live": "" },
+    "image": "/images/projects/finance-tracker.png",
+    "featured": true
+  },
+  {
+    "id": "rock-paper-scissor",
+    "title": "Rock Paper Scissor Game",
+    "description": "An interactive Rock Paper Scissor game with score tracking and responsive UI. Built to practice JavaScript logic and DOM manipulation.",
+    "tech": ["HTML", "CSS", "JavaScript"],
+    "techStack": ["HTML", "CSS", "JavaScript"],
+    "github": "https://github.com/sathvikamoorthy-del/Rock-paper-scissor-project.git",
+    "links": { "github": "https://github.com/sathvikamoorthy-del/Rock-paper-scissor-project.git", "live": "" },
+    "image": "/images/projects/rock-paper-scissor.png",
+    "featured": true
+  },
+  {
+    "id": "weather-app",
+    "title": "Weather App",
+    "description": "A simple weather app that shows current weather conditions using OpenWeather API. Displays temperature, humidity, and weather status based on city search.",
+    "tech": ["HTML", "CSS", "JavaScript", "OpenWeather API"],
+    "techStack": ["HTML", "CSS", "JavaScript", "OpenWeather API"],
+    "github": "https://github.com/sathvikamoorthy-del/weather-app.git",
+    "links": { "github": "https://github.com/sathvikamoorthy-del/weather-app.git", "live": "" },
+    "image": "/images/projects/weather-app.png",
+    "featured": true
+  },
+  {
+    "id": "ai-study-buddy",
+    "title": "AI Study Buddy",
+    "description": "AI-powered study companion that helps students with doubts, summarizes notes, and creates study plans. Built with React frontend and Python FastAPI backend.",
+    "tech": ["React", "Vite", "Python", "FastAPI", "AI"],
+    "techStack": ["React", "Vite", "Python", "FastAPI", "AI"],
+    "github": "https://github.com/sathvikamoorthy-del/ai-study-buddy.git",
+    "links": { "github": "https://github.com/sathvikamoorthy-del/ai-study-buddy.git", "live": "" },
+    "image": "/images/projects/ai-study-buddy.png",
+    "featured": true
+  }
+]

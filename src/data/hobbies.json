@@ -1,0 +1,14 @@
+[
+  {
+    "id": "reading",
+    "title": "Reading",
+    "description": "I enjoy reading tech blogs and articles to stay updated with AI and new technologies.",
+    "icon": "BookOpen"
+  },
+  {
+    "id": "exploring-internet",
+    "title": "Exploring Internet",
+    "description": "Exploring the internet to discover new technologies, tools, and creative ideas.",
+    "icon": "Search"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": "sample-photo-1",
+    "title": "Sample Photo One",
+    "imageFile": "photo-1.svg"
+  },
+  {
+    "id": "sample-photo-2",
+    "title": "Sample Photo Two",
+    "imageFile": "photo-2.svg"
+  },
+  {
+    "id": "sample-photo-3",
+    "title": "Sample Photo Three",
+    "imageFile": "photo-3.svg"
+  }
+]

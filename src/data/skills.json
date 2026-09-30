@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Technical",
+    "items": [
+      { "name": "Python", "proficiency": 4 },
+      { "name": "Java (Basics)", "proficiency": 3 },
+      { "name": "C", "proficiency": 4 },
+      { "name": "HTML", "proficiency": 4 },
+      { "name": "DBMS", "proficiency": 4 }
+    ]
+  },
+  {
+    "category": "Tools",
+    "items": [
+      { "name": "Git", "proficiency": 4 },
+      { "name": "VS Code", "proficiency": 5 },
+      { "name": "React", "proficiency": 3 }
+    ]
+  },
+  {
+    "category": "Digital Skills",
+    "items": [
+      { "name": "SEO Basics", "proficiency": 3 }
+    ]
+  }
+]

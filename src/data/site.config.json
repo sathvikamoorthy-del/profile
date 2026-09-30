@@ -1,0 +1,54 @@
+{
+  "siteTitle": "Sathvika Moorthy",
+  "tagline": "Passionate learner exploring AI and building small projects along the way",
+  "basePath": "/profile/",
+  "defaultTheme": "dark-tech",
+  "availableThemes": [
+    "modern-minimal",
+    "dark-tech",
+    "vibrant-creative",
+    "blue-professional"
+  ],
+  "favicon": "/favicon.svg",
+  "seo": {
+    "description": "Portfolio of Sathvika Moorthy, Aspiring AI Engineer — projects, experience, and writing.",
+    "ogImage": "/images/og-image.svg"
+  },
+  "navigation": [
+    {
+      "id": "home",
+      "label": "Home",
+      "enabled": true,
+      "order": 1
+    },
+    {
+      "id": "resume",
+      "label": "Resume",
+      "enabled": true,
+      "order": 2
+    },
+    {
+      "id": "projects",
+      "label": "Projects",
+      "enabled": true,
+      "order": 3
+    },
+    {
+      "id": "others",
+      "label": "Others",
+      "enabled": true,
+      "order": 4
+    },
+    {
+      "id": "blog",
+      "label": "Blog",
+      "enabled": true,
+      "order": 5
+    }
+  ],
+  "contactForm": {
+    "provider": "formspree",
+    "endpoint": "https://formspree.io/f/xljeydej"
+  },
+  "showCustomizeGuide": false
+}
